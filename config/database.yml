@@ -81,4 +81,6 @@ production:
   <<: *default
   database: rubymine_blog_on_rails_production
   username: rubymine_blog_on_rails
-  password: <%= ENV["RUBYMINE_BLOG_ON_RAILS_DATABASE_PASSWORD"] %>
+  password: root
+  host: localhost
+  port: 5432
