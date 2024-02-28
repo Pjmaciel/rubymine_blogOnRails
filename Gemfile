@@ -53,6 +53,7 @@ group :development, :test do
   gem 'rspec-rails'
   gem 'factory_bot'
   gem 'ffaker'
+  gem 'rubocop', require: false
 end
 
 group :development do
