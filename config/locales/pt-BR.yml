@@ -8,8 +8,8 @@ pt-BR:
         post:
           title: 'Título'
           author: 'Autor'
-          body: 'Conteúdo do Post'
+          body: 'Post'
         comments:
           author: 'Autor'
-          body: 'Conteúdo do Post'
+          body: 'comentario'
 
