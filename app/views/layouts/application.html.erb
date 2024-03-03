@@ -24,9 +24,20 @@
       <div class="container">
         <%= yield %>
       </div>
+  </body>
 
       <footer class="bg-primary text-white text-center mt-5 p-4" >
         Copyright © pjmaciel <%= Date.current.year %>
       </footer>
+
+  <!-- Adicione o código do JavaScript para inicializar os tooltips -->
+  <script>
+      document.addEventListener("DOMContentLoaded", function() {
+          var tooltipTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="tooltip"]'));
+          var tooltipList = tooltipTriggerList.map(function (tooltipTriggerEl) {
+              return new bootstrap.Tooltip(tooltipTriggerEl);
+          });
+      });
+  </script>
   </body>
 </html>
