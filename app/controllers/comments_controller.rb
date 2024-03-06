@@ -1,4 +1,6 @@
 class CommentsController < ApplicationController
+  validates :author, presence: true
+  validates :body, presence: true
   def create
     comment = Comment.create!(comments_params)
 
