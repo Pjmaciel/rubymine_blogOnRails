@@ -3,8 +3,7 @@
 ![GitHub](https://img.shields.io/github/license/Pjmaciel/rubymine_blogOnRails)
 ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/Pjmaciel/rubymine_blogOnRails/CI)
 ![Coverage](https://img.shields.io/codecov/c/github/Pjmaciel/rubymine_blogOnRails)
-![Version](https://img.shields.io/github/v/release/Pjmaciel/rubymine_blogOnRails)
-![Contributing](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
+![Version](https://img.shields.io/github/v/release/Pjmaciel/rubymine_blogOnRails/releases/tag/v1.0.0)
 
 ## Visão Geral
 
