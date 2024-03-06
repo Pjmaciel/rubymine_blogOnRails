@@ -1,11 +1,6 @@
 # BlogOnRails
 
-![GitHub](https://img.shields.io/github/license/Pjmaciel/rubymine_blogOnRails)
-![GitHub Workflow Status](https://img.shields.io/github/workflow/status/Pjmaciel/rubymine_blogOnRails/CI)
 ![GitHub Tag](https://img.shields.io/github/v/tag/Pjmaciel/rubymine_blogOnRails)
-
-
-
 
 ## Visão Geral
 
