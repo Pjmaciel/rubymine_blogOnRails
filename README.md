@@ -1,24 +1,14 @@
-# README
+# BlogOnRails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+![GitHub](https://img.shields.io/github/license/Pjmaciel/rubymine_blogOnRails)
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/Pjmaciel/rubymine_blogOnRails/CI)
+![Coverage](https://img.shields.io/codecov/c/github/Pjmaciel/rubymine_blogOnRails)
+![Version](https://img.shields.io/github/v/release/Pjmaciel/rubymine_blogOnRails)
+![Contributing](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 
-Things you may want to cover:
+## Visão Geral
 
-* Ruby version
+O BlogOnRails é um aplicativo web desenvolvido em Ruby on Rails que permite aos usuários criar, editar, visualizar e excluir postagens em um blog. Além disso, os usuários podem adicionar comentários a cada postagem para interagir com o conteúdo. O BlogOnRails é útil para blogueiros que desejam uma plataforma simples e eficaz para compartilhar suas ideias e receber feedback da comunidade.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+[Guia de Instalação](docs/installation.md)
+[Guia do Usuário](docs/usage.md)
