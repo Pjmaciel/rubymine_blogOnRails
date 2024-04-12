@@ -6,7 +6,7 @@ Após a instalação, siga estas etapas para começar a usar o BlogOnRails:
 
 1. Acesse a página inicial em [http://localhost:3000/](http://localhost:3000/).
 
-   ![Página Inicial](docs/screenshot/homepage.png)
+   ![Página Inicial](/screenshot/homepage.png)
 
 2. Navegue pelas postagens existentes ou crie uma nova.
 
